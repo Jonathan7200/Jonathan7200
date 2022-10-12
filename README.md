@@ -1,7 +1,8 @@
 ### Hello World👋
 
 Hey I'm Jonathan!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan7200&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true)
+
 
 <!--
 **Jonathan7200/Jonathan7200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
