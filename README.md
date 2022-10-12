@@ -1,9 +1,10 @@
 ### Hello World👋
 
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan7200&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan7200&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
