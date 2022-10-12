@@ -1,11 +1,9 @@
 ### Hello World👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan7200&show_icons=true&theme=radical&count_private=true)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan7200&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan7200&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan7200&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
