@@ -1,7 +1,7 @@
 ### Hello World👋
 
 Hey I'm Jonathan!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan7200&show_icons=true&theme=radical&count_private=true)
 
 
 <!--
