@@ -15,7 +15,7 @@ const jonathan = {
     education: "BS Computer Science - AI & ML @ Cal Poly",
     graduation: "2025",
     
-    favoriteColor: "#22C55E" // that beautiful green ✨
+    
 };
 \`\`\`
 
@@ -34,9 +34,9 @@ const jonathan = {
 
 ## 📊 GitHub Stats 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=999999&show_icons=true&theme=dark&title_color=22C55E&icon_color=22C55E&text_color=ffffff&bg_color=1a1a1a" alt="Jonathan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonathan7200&show_icons=true&theme=dark&title_color=22C55E&icon_color=22C55E&text_color=ffffff&bg_color=1a1a1a" alt="Jonathan's GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=999999&theme=dark&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan7200&theme=dark&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak" />
 </div>
 
 
