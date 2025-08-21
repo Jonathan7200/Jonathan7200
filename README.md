@@ -1,6 +1,7 @@
-# Hello World!! I'm Jonathan 
-I love solving real problems, listning to jams, and looking at the stars with a good audiobook.  
+![Banner](./assets/banner.png) <!-- optional banner if you upload one -->
 
+# Hi there, I'm Jonathan 👋  
+🎶 Music, 🐾 Cats, and a mean game of Tetris 🎮  
 
 ## ✨ AI/ML Engineer | Full-Stack Developer ✨  
 
@@ -18,46 +19,3 @@ const jonathan = {
   graduation: 2025,
   passions: ["AI/ML", "Music Tech", "Full-Stack Dev", "Tetris"]
 };
-
-
-
-<div align="center">
-
-| 🟦 **Languages** | 🟨 **ML/AI** | 🟪 **Frameworks** | 🟩 **Tools** |
-|:---:|:---:|:---:|:---:|
-| Python | PyTorch | React.js | Docker |
-| JavaScript | TensorFlow | Node.js | MongoDB |
-| Java | Keras | Express.js | MySQL |
-| C | Scikit-learn | FastAPI | Git |
-
-</div>
-
-
-## 📊 GitHub Stats 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonathan7200&show_icons=true&theme=dark&title_color=22C55E&icon_color=22C55E&text_color=ffffff&bg_color=1a1a1a" alt="Jonathan's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan7200&theme=dark&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak" />
-</div>
-
-
-## Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonflores203)
-[![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jon.flores203@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonathan7200)
-
-**Looking for internships & full-time opportunities!** 🚀
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jonathan7200&color=22C55E&style=flat-square" alt="Profile Views" />
-  
-
-  
-</div>
