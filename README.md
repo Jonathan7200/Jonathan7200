@@ -1,23 +1,24 @@
-# Hi! I'm Jonathan, I love music, cats and can play a mean game of Tetris
+# Hello World!! I'm Jonathan 
+I love solving real problems, listning to jams, and looking at the stars with a good audiobook.  
 
-  
-  **✨  AI/ML Engineer ✨**
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=22C55E&width=435&lines=Building+AI+that+makes+music+🎵;Training+models+while+petting+cats+🐾;Dropping+Tetris+blocks+%26+APIs+⬜;Cal+Poly+SLO+%7C+Graduating+2025+🎓)
-</div>
 
-## About Me
+## ✨ AI/ML Engineer | Full-Stack Developer ✨  
 
-\`\`\`javascript
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=4bad56&width=500&lines=Building+AI+that+makes+music+🎵;Training+models+while+petting+cats+🐾;Dropping+Tetris+blocks+%26+APIs+⬜;Cal+Poly+SLO+%7C+Graduating+2025+🎓)
+
+---
+
+## 👨‍💻 About Me  
+
+```javascript
 const jonathan = {
-    pronouns: "he/him",
-    location: "San Luis Obispo, CA",
-    education: "BS Computer Science - AI & ML @ Cal Poly",
-    graduation: "2025",
-    
-    
+  pronouns: "he/him",
+  location: "San Luis Obispo, CA",
+  education: "BS Computer Science - AI & ML @ Cal Poly",
+  graduation: 2025,
+  passions: ["AI/ML", "Music Tech", "Full-Stack Dev", "Tetris"]
 };
-\`\`\`
+
 
 
 <div align="center">
