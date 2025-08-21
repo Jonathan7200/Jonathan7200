@@ -10,16 +10,15 @@
 
 ## About Me
 
-\`\`\`javascript
+
 const jonathan = {
-    pronouns: "he/him",
-    location: "San Luis Obispo, CA",
-    education: "BS Computer Science - AI & ML @ Cal Poly",
-    graduation: "2025",
-    
-    
+  pronouns: "he/him",
+  location: "San Luis Obispo, CA",
+  education: "BS Computer Science - AI & ML @ Cal Poly",
+  graduation: 2025,
 };
-\`\`\`
+
+
 
 
 <div align="center">
