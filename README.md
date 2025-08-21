@@ -1,7 +1,5 @@
-# Hi there, I'm Jonathan! 🐱‍💻 
+# Hi! I'm Jonathan, I love music, cats and can play a mean game of Tetris
 
-<div align="center">
-  <img src="/src/assets/coding-cat.png" alt="Coding Cat" width="200"/>
   
   **✨  AI/ML Engineer ✨**
   
