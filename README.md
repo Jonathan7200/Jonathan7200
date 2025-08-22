@@ -1,23 +1,20 @@
 
+#**  AI/ML Engineer **
 
-# Hi! I'm Jonathan, I love music, cats and can play a mean game of Tetris
+Training models and my cat. Only one responds to learning rate schedules.
 
+  **  AI/ML Engineer **
   
-  **✨  AI/ML Engineer ✨**
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=22C55E&width=435&lines=Building+AI+that+makes+music+🎵;Training+models+while+petting+cats+🐾;Dropping+Tetris+blocks+%26+APIs+⬜;Cal+Poly+SLO+%7C+Graduating+2025+🎓)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=22C55E&width=435&lines=Cal+Poly+SLO+%7C+Graduating+2025;Building+AI+that+changes+the+world+🌍;Dropping+Tetris+blocks+%26+APIs+🕹️;Training+models+while+petting+cats+🐈)
 </div>
 
 ## About Me
 
+I am a Machine Learning Engineer who works on training and shipping models. 
 
-const jonathan = {
-  pronouns: "he/him",
-  location: "San Luis Obispo, CA",
-  education: "BS Computer Science - AI & ML @ Cal Poly",
-  graduation: 2025,
-};
+I graduated wit ha BS in Computer Science with a Concentration in AI and Machine Learning at Cal Poly SLO. I love solving real complex problems with robust 
 
+I have a large passion for AI and Machine learning, and being a part of the everchaning future. I love 
 
 
 
@@ -49,7 +46,7 @@ const jonathan = {
 [![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jon.flores203@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonathan7200)
 
-**Looking for internships & full-time opportunities!** 🚀
+
 
 </div>
 
