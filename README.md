@@ -19,7 +19,7 @@ My passion for machine learning began a long time ago after a lesson on gradeint
 
 
 
-## Let's connect!
+## Let's Connect!
 
 <div align="center">
   
@@ -27,9 +27,9 @@ My passion for machine learning began a long time ago after a lesson on gradeint
 [![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jon.flores203@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonathan7200)
 
-## Skills!
+## Skills
 
-<div align="center">
+<div align="left">
 
 |  **Languages** |  **ML/AI** |  **Frameworks** |  **Tools** |
 |:---:|:---:|:---:|:---:|
