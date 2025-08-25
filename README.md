@@ -26,10 +26,10 @@ My passion for machine learning began a long time ago after a lesson on gradeint
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonflores203)
 [![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jon.flores203@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonathan7200)
-
+</div>
 ## Skills
 
-<div align="left">
+<div align="center">
 
 |  **Languages** |  **ML/AI** |  **Frameworks** |  **Tools** |
 |:---:|:---:|:---:|:---:|
