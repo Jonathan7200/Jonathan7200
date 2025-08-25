@@ -1,18 +1,19 @@
 
-#**  AI/ML Engineer **
+**AI/ML Engineer** 
 
 Training models and my cat. Only one responds to learning rate schedules.
 
-  **  AI/ML Engineer **
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=22C55E&width=435&lines=Cal+Poly+SLO+%7C+Graduating+2025;Building+AI+that+changes+the+world+🌍;Dropping+Tetris+blocks+%26+APIs+🕹️;Training+models+while+petting+cats+🐈)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=3E9B5F&width=435&lines=Cal+Poly+SLO+%7C+2025;Cooking+Up+The+Best+Project+Name+🧠;Dropping+Tetris+blocks+%26+APIs+🕹️;Training+models+while+petting+cats+🐈)
 </div>
 
 ## About Me
 
-I am a Machine Learning Engineer who works on training and shipping models. 
+I am a Machine Learning Engineer who works on training, implementing, and hypertuning models!
 
-I graduated wit ha BS in Computer Science with a Concentration in AI and Machine Learning at Cal Poly SLO. I love solving real complex problems with robust 
+I graduated with a BS in Computer Science with a Concentration in AI and Machine Learning at Cal Poly SLO. I love solving real complex problems with teams 
+
+I have a large passion for 
 
 I have a large passion for AI and Machine learning, and being a part of the everchaning future. I love 
 
