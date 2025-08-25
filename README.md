@@ -4,7 +4,7 @@
 Training models and my cat. Only one responds to learning rate schedules.
 
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=3E9B5F&width=435&lines=Cal+Poly+SLO+%7C+2025;Cooking+up+the+best+project+name+🧠;Dropping+Tetris+blocks+%26+APIs+🕹️;Training+models+while+petting+cats+🐈;Having+fun+with+README)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=3E9B5F&width=435&lines=California+Polytechnic+State+University+SLO+%7C+2025;Cooking+up+the+best+project+name+🧠;Dropping+Tetris+blocks+%26+APIs+🕹️;Training+models+while+petting+cats+🐈;Having+fun+with+README+😆)
 </div>
 
 ## About Me
