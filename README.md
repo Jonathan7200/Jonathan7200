@@ -3,7 +3,7 @@
 
 HELLO WORLD!!!! 
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=3E9B5F&width=435&lines=Cooking+up+the+best+project+name+🧠;Dropping+Tetris+blocks+%26+APIs+🕹️;Having+fun+with+README+😆;Training+models+while+petting+cats+🐈)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=3E9B5F&width=435&lines=Cooking+up+the+best+project+name+🧠;Dropping+Tetris+blocks+%26+APIs+🕹️;Having+fun+with+README+😆;Training+models+while+petting+cats+🐈;Prediting+the+next+Gustav+Holst)
 </div>
 
 ## About Me
@@ -12,7 +12,7 @@ I am a Machine Learning Engineer who works on training, implementing, and hypert
 
 I graduated with a BS in Computer Science - Concentration in AI and Machine Learning, at California Polytechnic State University San Luis Obispo. I love solving real, complex problems with talented and passion driven teams. 
 
-Some hobbies of mine include photography, climbing, and 
+Some hobbies of mine include photography, playing classical music, climbing, and 
 
 My passion for machine learning began a long time ago after a lesson on gradeint decent. Machine Learning is the next big leap that I want to be a part of! 
 
@@ -27,6 +27,7 @@ My passion for machine learning began a long time ago after a lesson on gradeint
 [![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jon.flores203@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonathan7200)
 
+## Skills!
 
 <div align="center">
 
@@ -38,6 +39,10 @@ My passion for machine learning began a long time ago after a lesson on gradeint
 | C | Scikit-learn | FastAPI | Git |
 
 </div>
+
+
+
+## Check Out My Projects! (all incredibly named)
 
 
 ## 📊 GitHub Stats 
