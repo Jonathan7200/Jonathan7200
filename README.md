@@ -1,7 +1,7 @@
 
 <div align="center">
   <!-- Photography collage -->
-  <img src="./readme_photos.png" alt="Square collage of Jonathan's favorite film photography shots" width="360" />
+  <img src="./assets/readme_photos.png" alt="Square collage of Jonathan's favorite film photography shots" width="360" />
 </div>
 
 **AI/ML Engineer** 
