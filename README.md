@@ -51,11 +51,6 @@ My passion for machine learning began a long time ago after a lesson on gradeint
 
 
  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonathan7200&show_icons=true&theme=dark&title_color=22C55E&icon_color=22C55E&text_color=ffffff&bg_color=1a1a1a" alt="Jonathan's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan7200&theme=dark&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak" />
-</div>
 
 
 
