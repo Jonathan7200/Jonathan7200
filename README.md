@@ -28,6 +28,7 @@ Since then, I have grown more than I could have ever imagined!
 Shortly after graduating from high school during the Covid-19 Pandemic, I decided that a career in Computer Science was one I wanted to purse. During this time was also when the concentration for AI and Machine Learning was announced. With this I knew that I would have the ability to change the world for the better.
 
 So here we are!
+
 My name is Jonathan Flores, and I want to change the world with passionate people to do good and leave this place better than when I frist arrived. 
 
 
