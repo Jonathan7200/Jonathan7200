@@ -21,12 +21,14 @@ I love solving real, complex problems with talented and passion driven teams hop
 
 I love photography, climbing, playing music, and playing card games such as Magic the Gathering, One Piece and RiftBound!
 
-My passion for technology began a long time ago when I couldn't afford any games or any in-game currencies in middle school. Feeling motivated by pay to win games, I rooted my Android phone, and began modifying in-game values via different game softwares. Ever since I have seen technology as an opportunity as suppoed to unknown dark magic of ones and zeroes. 
+My passion for technology began a long time ago when I couldn't afford any games or any in-game currencies in middle school. Feeling motivated by pay to win games, I rooted my Android phone, and began modifying in-game values via different game softwares. Ever since I have seen technology as an opportunity to help those who need it most, rather than a black box of 1s and 0s.
 
 Since then, I have grown more than I could have ever imagined!
-Shortly after graduating during the Covid-19 Pandemic I decided a career in Computer Science was one I wanted to purse, and when the concentration for AI and Machine Learning was announced I knew that I would have the ability to change the world. 
+
+Shortly after graduating from high school during the Covid-19 Pandemic, I decided that a career in Computer Science was one I wanted to purse. During this time was also when the concentration for AI and Machine Learning was announced. With this I knew that I would have the ability to change the world for the better.
 
 So here we are!
+My name is Jonathan Flores, and I want to change the world with passionate people to do good and leave this place better than when I frist arrived. 
 
 
 
