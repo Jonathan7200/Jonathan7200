@@ -15,12 +15,18 @@ HELLO WORLD!!!!
 
 I am a Machine Learning Engineer who works on training, implementing, and hypertuning models!
 
-I graduated with a BS in Computer Science - Concentration in AI and Machine Learning, at California Polytechnic State University San Luis Obispo. I love solving real, complex problems with talented and passion driven teams. 
+I graduated with from California Polytechnic State University (Cal Poly) with a BS in Computer Science with a Concentration in AI and Machine Learning.
 
-Some hobbies of mine include photography, playing classical music, climbing, and 
+I love solving real, complex problems with talented and passion driven teams hoping to push humanity ever so slightly. 
 
-My passion for machine learning began a long time ago after a lesson on gradeint decent. Machine Learning is the next big leap that I want to be a part of! 
+I love photography, climbing, playing music, and playing card games such as Magic the Gathering, One Piece and RiftBound!
 
+My passion for technology began a long time ago when I couldn't afford any games or any in-game currencies in middle school. Feeling motivated by pay to win games, I rooted my Android phone, and began modifying in-game values via different game softwares. Ever since I have seen technology as an opportunity as suppoed to unknown dark magic of ones and zeroes. 
+
+Since then, I have grown more than I could have ever imagined!
+Shortly after graduating during the Covid-19 Pandemic I decided a career in Computer Science was one I wanted to purse, and when the concentration for AI and Machine Learning was announced I knew that I would have the ability to change the world. 
+
+So here we are!
 
 
 
