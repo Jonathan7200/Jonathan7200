@@ -19,7 +19,7 @@ I graduated with from California Polytechnic State University (Cal Poly) with a 
 
 I love solving real, complex problems with talented and passion driven teams hoping to push humanity ever so slightly. 
 
-I love photography, climbing, playing music, and playing card games such as Magic the Gathering, One Piece and RiftBound!
+Some hobbies of mine include photography, climbing, playing music, and playing card games such as Magic the Gathering, One Piece and RiftBound!
 
 My passion for technology began a long time ago when I couldn't afford any games or any in-game currencies in middle school. Feeling motivated by pay to win games, I rooted my Android phone, and began modifying in-game values via different game softwares. Ever since I have seen technology as an opportunity to help those who need it most, rather than a black box of 1s and 0s.
 
