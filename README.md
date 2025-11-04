@@ -58,11 +58,3 @@ My passion for machine learning began a long time ago after a lesson on gradeint
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jonathan7200&color=22C55E&style=flat-square" alt="Profile Views" />
-  
-
-  
-</div>
