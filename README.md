@@ -29,7 +29,7 @@ Shortly after graduating from high school during the Covid-19 Pandemic, I decide
 
 So here we are!
 
-My name is Jonathan Flores, and I want to change the world with passionate people to do good and leave this place better than when I frist arrived. 
+My name is Jonathan Flores, and I want to change the world, build community and collaborate with those who feel the same. 
 
 
 
